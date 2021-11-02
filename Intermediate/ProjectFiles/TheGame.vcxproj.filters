@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TheGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{B5F0F037-DE70-40D5-9471-D8B18F5DD0C2}</UniqueIdentifier>
+      <UniqueIdentifier>{0FEF83F4-9CFF-493A-B685-6A5E16CF009B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TheGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{05114E84-FDA2-454F-A26B-36E76663983D}</UniqueIdentifier>
+      <UniqueIdentifier>{18A633BD-4D06-42AC-87E7-9BCBEBD1EBC0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TheGame">
-      <UniqueIdentifier>{8C2CB7BB-E117-4591-B1EB-75B35C626E4A}</UniqueIdentifier>
+      <UniqueIdentifier>{A4C56155-FB0A-435E-974D-97DF06FCC12D}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TheGame\CPP_Player.cpp">
+      <Filter>Source\TheGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheGame\CPP_Player.h">
+      <Filter>Source\TheGame</Filter>
+    </ClInclude>
     <None Include="..\..\Source\TheGame\TheGame.Build.cs">
       <Filter>Source\TheGame</Filter>
     </None>

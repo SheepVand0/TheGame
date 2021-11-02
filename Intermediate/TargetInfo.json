@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "TheGame",
-			"Path": "C:\\Users\\user\\Desktop\\TheGame\\Source\\TheGame.Target.cs",
+			"Path": "C:\\Users\\user\\Documents\\GitHub\\TheGame\\Source\\TheGame.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "TheGameEditor",
-			"Path": "C:\\Users\\user\\Desktop\\TheGame\\Source\\TheGameEditor.Target.cs",
+			"Path": "C:\\Users\\user\\Documents\\GitHub\\TheGame\\Source\\TheGameEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
