@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B5F0F037-DE70-40D5-9471-D8B18F5DD0C2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{05114E84-FDA2-454F-A26B-36E76663983D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheGame">
+      <UniqueIdentifier>{8C2CB7BB-E117-4591-B1EB-75B35C626E4A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheGame\TheGame.Build.cs">
+      <Filter>Source\TheGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheGame\TheGame.cpp">
+      <Filter>Source\TheGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheGame\TheGame.h">
+      <Filter>Source\TheGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheGame\TheGameGameModeBase.cpp">
+      <Filter>Source\TheGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheGame\TheGameGameModeBase.h">
+      <Filter>Source\TheGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
